@@ -1,0 +1,3 @@
+AIzaSyBgYFz7OrX5ya4uJegfEIJYuuXYh1FArik
+mtsbarbosa2003
+mongodb+srv://mtsbarbosa2003:#Alien3030@cluster0.xuiij.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
